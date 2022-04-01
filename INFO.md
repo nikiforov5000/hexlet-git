@@ -1,2 +1,1 @@
-git is awesome!
-experient with amend
+hello info
